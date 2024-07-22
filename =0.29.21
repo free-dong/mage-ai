@@ -1,0 +1,5 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting cython
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/45/82/077c13035d6f45d8b8b74d67e9f73f2bfc54ef8d1f79572790f6f7d2b4f5/Cython-3.0.10-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.6 MB)
+Installing collected packages: cython
+Successfully installed cython-3.0.10
